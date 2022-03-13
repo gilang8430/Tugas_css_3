@@ -1,0 +1,20 @@
+.orange{
+  background-color: orange;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.text-area{
+  font-size: 20px;
+  margin: 0;
+  position: relative;
+  right: 10px;
+}
+
+.abu-abu{
+  background-color: #43484d;
+  font-weight: 900;
+
+}
